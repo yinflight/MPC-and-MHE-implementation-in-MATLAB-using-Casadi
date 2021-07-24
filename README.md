@@ -1,0 +1,2 @@
+# MPC-and-MHE-implementation-in-MATLAB-using-Casadi
+This is a workshop on implementing model predictive control (MPC) and moving horizon estimation (MHE) on Matlab. The implementation is based on the Casadi Package which is used for numerical optimization. A non-holonomic mobile robot is used as a system for the implementation. The workshop video recording can be found here https://www.youtube.com/playlist?list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL  ... Casadi can be downloaded here https://web.casadi.org/
